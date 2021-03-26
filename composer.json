@@ -1,0 +1,19 @@
+{
+    "name": "api-doc/api-doc",
+    "description": "The Api Document For PHP",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "罗凯",
+            "email": "luokai@daishujiankang.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
